@@ -11,6 +11,9 @@ body {
   text-align: center;
   margin: 0 auto;
   max-width: 600px;
+  position:sticky;
+  top:0;
+  background-color:lightblue;
   }
   
   p {
