@@ -3,6 +3,7 @@ body {
   margin: 0 auto;
   max-width: 800px;
   padding: 0 20px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 @media screen and (max-width: 480px) {
@@ -14,7 +15,8 @@ body {
   
   /* Style headings and text */
   h1 {
-    font-family: Arial, sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
     font-size: 36px;
     color: #333;
   text-align: center;
