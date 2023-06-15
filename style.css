@@ -12,6 +12,8 @@ body {
   margin: 0 auto;
   max-width: 600px;
   position:sticky;
+  width:100%;
+  left:0;
   top:0;
   background-color:lightblue;
   }
